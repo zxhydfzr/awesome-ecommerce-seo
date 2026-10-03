@@ -66,6 +66,7 @@ The signals that win product rich results in Google — and increasingly, citati
 
 - [PageSpeed Insights](https://pagespeed.web.dev/) - `free` Lab + field Core Web Vitals with concrete fixes.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - `free` Open-source auditing for performance, SEO, and accessibility.
+- [CompressFile Image Audit](https://chromewebstore.google.com/detail/kfofpbpbbbhahiofnkejpfgbomnfeopf) - `free` Chrome extension that flags oversized and badly compressed images on product and category pages and compresses them in the browser.
 - [web.dev](https://web.dev/) - `free` Google's guidance on Core Web Vitals and the modern web.
 - [GTmetrix](https://gtmetrix.com/) - Page-speed analysis and scheduled monitoring.
 - [WebPageTest](https://www.webpagetest.org/) - Deep waterfall performance testing from real locations.

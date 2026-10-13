@@ -112,6 +112,10 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 first, then open a pull request. Suggestions that are ecommerce/DTC-focused, actively
 maintained, and genuinely useful are prioritized.
 
+## Maintainer
+
+Maintained by [Bojun](https://github.com/zxhydfzr). I write about running ecommerce SEO and store ops with AI agents at [Chill AI Automate](https://www.liubojun.com/en/), including a daily [ecommerce & AI news digest](https://www.liubojun.com/en/news/) for store owners.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)

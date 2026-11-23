@@ -89,6 +89,7 @@ Generative Engine Optimization — showing up in AI answers, not just blue links
 structured data (see above) is the foundation; these help you measure and monitor.
 
 - [Otterly.ai](https://otterly.ai/) - Monitor how your brand and links appear in AI search answers.
+- [OneLence](https://onelence.com/) - Shows which brands AI answers name for buyer questions, which pages they cite and where a store is missing, alongside Search Console opportunities.
 
 ## Analytics & Rank Tracking
 
